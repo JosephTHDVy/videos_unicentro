@@ -1,0 +1,52 @@
+* {
+    margin :0;
+    padding: 0;
+}
+
+body {
+    background-color: aliceblue;
+
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+}
+
+.video {
+    margin: 25px 0px 0px 0px;
+    padding: 15px;
+    background-color: rgb(43, 39, 39) ;
+    box-shadow: 10px 10px 30px;
+}
+
+.video button {
+    background-color: aliceblue;
+    border: none;
+    border-radius: 8px;
+    padding: 5px;
+    color: black;
+}
+
+.video button:hover {
+    background-color: black;
+    color: aliceblue;
+}
+
+
+aside {
+    margin-top: 50px;
+    background-color: black;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
