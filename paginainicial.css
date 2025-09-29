@@ -4,10 +4,9 @@
 }
 
 body {
-    background-color: linear-gradient(to bottom, #121212, #e7da30);
     height: 100vh;
     width: 100vw;
-    background: linear-gradient(to bottom, #121212, #e7da30);
+    background: linear-gradient(to bottom, #000000, #f0e000);
     font-family: Arial, sans-serif;
     color: white;
     text-align: center;
